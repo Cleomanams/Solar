@@ -1,0 +1,299 @@
+2017-02-22 12:36:26.0270 INFO ConfigureAuth
+2017-02-22 13:16:18.7600 INFO ConfigureAuth
+2017-02-22 13:17:16.1228 INFO ConfigureAuth
+2017-02-22 14:30:30.3690 INFO ConfigureAuth
+2017-02-22 14:39:35.0238 INFO ConfigureAuth
+2017-02-22 14:45:34.1161 INFO ConfigureAuth
+2017-02-22 14:45:34.9267 INFO Selecting Subusers for User
+2017-02-22 14:45:34.9387 INFO Completed list for User 
+2017-02-22 14:49:23.6396 INFO Selecting Subusers for User
+2017-02-22 14:49:23.6396 INFO Completed list for User 
+2017-02-22 14:53:06.2590 INFO ConfigureAuth
+2017-02-22 14:53:07.3805 INFO Selecting Subusers for User
+2017-02-22 14:53:07.9936 INFO Completed list for User 
+2017-02-22 14:58:12.6939 INFO ConfigureAuth
+2017-02-22 14:58:13.0112 INFO Selecting Subusers for User
+2017-02-22 14:58:13.5336 INFO Completed list for User 
+2017-02-22 14:58:25.5007 INFO Selecting Subusers for User
+2017-02-22 14:58:25.5007 INFO Completed list for User 
+2017-02-22 14:59:56.6135 INFO Selecting Subusers for User
+2017-02-22 14:59:56.6135 INFO Completed list for User 
+2017-02-22 14:59:59.6751 INFO Selecting Subusers for User
+2017-02-22 14:59:59.6751 INFO Completed list for User 
+2017-02-22 15:01:35.0122 INFO ConfigureAuth
+2017-02-22 15:02:31.5847 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-22 15:02:32.0971 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-22 15:43:54.6981 INFO ConfigureAuth
+2017-02-22 15:46:07.8524 INFO ConfigureAuth
+2017-02-22 15:53:27.6837 INFO ConfigureAuth
+2017-02-23 09:25:16.2191 INFO ConfigureAuth
+2017-02-23 09:26:10.2708 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 09:26:10.8162 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 09:38:13.8167 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 09:38:13.8167 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 09:38:32.5379 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 09:38:32.5379 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 09:38:45.5842 INFO ConfigureAuth
+2017-02-23 09:38:45.9075 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 09:38:46.4294 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 09:43:23.8689 INFO ConfigureAuth
+2017-02-23 09:43:24.9307 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 09:43:25.3920 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 10:35:53.5559 INFO ConfigureAuth
+2017-02-23 10:51:28.1017 INFO ConfigureAuth
+2017-02-23 14:24:07.4165 INFO ConfigureAuth
+2017-02-23 14:29:52.0883 INFO ConfigureAuth
+2017-02-23 14:30:21.7717 INFO ConfigureAuth
+2017-02-23 14:31:05.8084 INFO ConfigureAuth
+2017-02-23 14:34:28.8357 INFO ConfigureAuth
+2017-02-23 14:35:38.4929 INFO ConfigureAuth
+2017-02-23 14:41:58.4157 INFO ConfigureAuth
+2017-02-23 14:42:27.9977 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 14:42:28.4444 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 15:01:57.3570 INFO ConfigureAuth
+2017-02-23 15:02:13.0537 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 15:02:13.4909 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 15:04:44.3485 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 15:04:44.3485 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 15:30:43.8034 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 15:30:43.8034 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 15:34:45.0755 INFO ConfigureAuth
+2017-02-23 15:34:45.3704 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 15:34:45.8591 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 15:37:09.6664 INFO ConfigureAuth
+2017-02-23 16:01:09.0923 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-23 16:01:09.0923 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-24 09:43:44.3834 INFO ConfigureAuth
+2017-02-24 09:44:47.9466 INFO Selecting Subusers for Usere4c27240-58a7-47a8-9480-f353416349dc
+2017-02-24 09:44:48.3958 INFO Completed list for User e4c27240-58a7-47a8-9480-f353416349dc
+2017-02-24 10:06:38.2267 INFO ConfigureAuth
+2017-02-24 10:08:43.9798 INFO ConfigureAuth
+2017-02-24 10:29:04.0702 INFO ConfigureAuth
+2017-02-24 10:33:01.5907 INFO ConfigureAuth
+2017-02-24 10:38:22.2897 INFO ConfigureAuth
+2017-02-24 10:43:48.4620 INFO ConfigureAuth
+2017-02-24 10:45:47.7886 INFO ConfigureAuth
+2017-02-24 10:45:55.4169 INFO ConfigureAuth
+2017-02-24 10:46:08.4483 INFO ConfigureAuth
+2017-02-24 11:09:09.1664 INFO ConfigureAuth
+2017-02-24 11:09:47.7674 ERROR System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at System.Data.Entity.DbContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at System.Data.Entity.DbContext.SaveChangesAsync()
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 164
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:09:57.8116 ERROR System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at System.Data.Entity.DbContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at System.Data.Entity.DbContext.SaveChangesAsync()
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 164
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:12:47.7125 INFO ConfigureAuth
+2017-02-24 11:13:03.7535 ERROR System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at System.Data.Entity.DbContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at System.Data.Entity.DbContext.SaveChangesAsync()
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 164
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:13:06.9861 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:13:07.4132 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:13:07.8905 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:13:08.3011 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:13:08.7098 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:13:08.9368 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:13:09.8657 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:13:10.6498 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:13:11.4355 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:13:12.3218 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:13:13.1405 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 217
+2017-02-24 11:14:50.4127 INFO ConfigureAuth
+2017-02-24 11:15:22.6220 INFO ConfigureAuth
+2017-02-24 11:18:20.9966 INFO ConfigureAuth
+2017-02-24 11:18:41.5170 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at SolarManager.Controllers.SubUsersController.<editFunction>d__7.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at SolarManager.Controllers.SubUsersController.<Edit>d__8.MoveNext() in C:\Users\Cleopas Manamela\documents\visual studio 2015\FlashProjects\SolarManager\SolarManager\Controllers\SubUsersController.cs:line 219
+2017-02-24 11:19:37.9925 INFO ConfigureAuth
+2017-02-24 11:23:00.0559 INFO ConfigureAuth
+2017-02-24 11:26:09.5442 INFO ConfigureAuth
+2017-02-24 11:34:15.3194 INFO ConfigureAuth
+2017-02-24 11:34:59.4123 INFO ConfigureAuth
+2017-02-24 11:50:12.8668 INFO ConfigureAuth
+2017-02-24 11:53:18.5712 INFO ConfigureAuth
+2017-02-24 12:26:53.9641 INFO ConfigureAuth
+2017-02-24 12:34:58.1640 INFO ConfigureAuth
+2017-02-24 13:20:46.6078 INFO ConfigureAuth
+2017-02-24 13:28:46.4309 INFO ConfigureAuth
+2017-02-24 13:32:09.2773 INFO ConfigureAuth
+2017-02-24 13:40:47.4486 INFO ConfigureAuth
+2017-02-26 16:23:55.5592 INFO ConfigureAuth
+2017-02-27 09:53:38.8657 INFO ConfigureAuth
+2017-02-27 11:05:11.3202 INFO ConfigureAuth
+2017-02-27 11:31:15.8998 INFO ConfigureAuth
+2017-02-27 11:34:23.9475 INFO ConfigureAuth
+2017-02-27 12:05:18.0748 INFO ConfigureAuth
+2017-02-27 12:06:06.8705 INFO ConfigureAuth
+2017-02-27 12:07:14.4658 INFO ConfigureAuth
+2017-02-27 12:22:29.5072 INFO ConfigureAuth
+2017-02-27 12:23:26.4752 INFO ConfigureAuth
+2017-02-27 12:40:45.0743 INFO ConfigureAuth
+2017-02-27 12:41:30.6044 INFO ConfigureAuth
+2017-02-27 12:42:52.3354 INFO ConfigureAuth
+2017-02-27 12:48:49.4015 INFO ConfigureAuth
+2017-02-27 12:58:33.8834 INFO ConfigureAuth
+2017-02-27 13:01:37.5764 INFO ConfigureAuth
+2017-02-27 13:08:56.4482 INFO ConfigureAuth
+2017-02-27 13:10:12.6853 INFO ConfigureAuth
+2017-02-27 13:10:26.6376 INFO ConfigureAuth
+2017-02-27 13:11:41.2251 INFO ConfigureAuth
+2017-02-27 13:16:10.3860 INFO ConfigureAuth
+2017-02-27 13:23:02.0860 INFO ConfigureAuth
+2017-02-27 13:27:48.6534 INFO ConfigureAuth
+2017-02-27 14:02:28.1990 INFO ConfigureAuth
+2017-02-27 14:04:24.9779 INFO ConfigureAuth
+2017-02-27 14:22:28.1808 INFO ConfigureAuth
+2017-02-27 14:23:02.6372 INFO ConfigureAuth
+2017-02-27 14:24:46.8822 INFO ConfigureAuth
+2017-02-27 14:27:00.3853 INFO ConfigureAuth
+2017-02-27 14:28:42.2149 INFO ConfigureAuth
+2017-02-27 16:07:18.6801 INFO ConfigureAuth
+2017-02-27 16:08:26.4806 INFO ConfigureAuth
+2017-02-28 10:20:24.3975 INFO ConfigureAuth
+2017-02-28 10:22:23.7793 INFO ConfigureAuth
+2017-02-28 11:04:10.9611 INFO ConfigureAuth
+2017-02-28 11:13:12.1804 INFO ConfigureAuth
+2017-02-28 11:19:31.4936 INFO ConfigureAuth
+2017-02-28 11:28:43.7488 INFO ConfigureAuth
+2017-02-28 11:29:26.6046 INFO ConfigureAuth
+2017-02-28 11:34:58.9010 INFO ConfigureAuth
+2017-02-28 11:42:03.1812 INFO ConfigureAuth
+2017-02-28 11:45:06.1386 INFO ConfigureAuth
+2017-02-28 11:48:02.0423 INFO ConfigureAuth
+2017-02-28 12:20:55.7736 INFO ConfigureAuth
+2017-02-28 12:40:25.6368 INFO ConfigureAuth
+2017-02-28 13:23:35.8969 INFO ConfigureAuth
+2017-02-28 14:14:04.7272 INFO ConfigureAuth
+2017-02-28 15:34:34.2278 INFO ConfigureAuth
+2017-02-28 15:45:11.2097 INFO ConfigureAuth
+2017-02-28 15:56:09.7320 INFO ConfigureAuth
+2017-02-28 16:21:59.9128 INFO ConfigureAuth
+2017-03-01 09:25:30.1819 INFO ConfigureAuth
+2017-03-01 09:31:21.2406 INFO ConfigureAuth
+2017-03-01 09:50:38.4470 INFO ConfigureAuth
+2017-03-01 09:55:14.4329 INFO ConfigureAuth
+2017-03-01 10:30:00.6672 INFO ConfigureAuth
+2017-03-01 10:35:38.0119 INFO ConfigureAuth
+2017-03-01 11:13:03.2265 INFO ConfigureAuth
+2017-03-01 11:13:17.8984 INFO ConfigureAuth
+2017-03-01 11:28:57.9656 INFO ConfigureAuth
+2017-03-01 11:41:19.3719 INFO ConfigureAuth
+2017-03-01 11:55:59.9755 INFO ConfigureAuth
+2017-03-01 16:25:10.5711 INFO ConfigureAuth
+2017-03-01 16:27:30.3534 INFO ConfigureAuth
+2017-03-01 16:41:38.1398 INFO ConfigureAuth
+2017-03-02 10:55:28.5435 INFO ConfigureAuth
+2017-03-02 10:56:52.2607 INFO ConfigureAuth
+2017-03-02 10:57:48.4136 INFO ConfigureAuth
+2017-03-02 10:58:48.4794 INFO ConfigureAuth
+2017-03-02 11:06:20.4179 INFO ConfigureAuth
+2017-03-02 11:06:34.0073 INFO ConfigureAuth
+2017-03-02 11:29:52.6212 INFO ConfigureAuth
+2017-03-02 11:35:34.6031 INFO ConfigureAuth
+2017-03-02 11:38:01.3519 INFO ConfigureAuth
+2017-03-02 12:46:31.6383 INFO ConfigureAuth
+2017-03-02 14:48:06.9332 INFO ConfigureAuth
+2017-03-02 14:53:45.3562 INFO ConfigureAuth
+2017-03-02 14:58:56.5535 INFO ConfigureAuth
+2017-03-03 11:56:41.8534 INFO ConfigureAuth
+2017-03-03 12:09:46.1813 INFO ConfigureAuth
+2017-03-03 12:40:45.6788 INFO ConfigureAuth
+2017-03-13 09:48:44.2144 INFO ConfigureAuth
+2017-05-15 13:57:11.6249 INFO ConfigureAuth
+2017-05-15 13:57:59.4687 INFO ConfigureAuth
+2017-05-15 13:58:53.6752 INFO ConfigureAuth
+2017-05-15 14:22:03.4382 INFO ConfigureAuth
+2017-05-15 14:22:43.3309 INFO ConfigureAuth

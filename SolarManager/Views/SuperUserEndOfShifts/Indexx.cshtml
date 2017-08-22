@@ -1,0 +1,121 @@
+﻿@model IEnumerable<SolarManager.Models.SuperUserEndOfShift>
+
+@{
+    Layout = null;
+}
+
+<h2>
+    <br />
+</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.EOSPrintNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.lastEOSDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SubUser.SubUserName)
+        </th>
+        <th>
+            View Transactions
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EOSPrintNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.lastEOSDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubUser.SubUserName)
+            </td>
+            <td>
+                @Html.ActionLink("View Txns", "Transactions", new { id = item.id }) |
+                @Html.ActionLink("EOS Print", "EOSPrint", new { id = item.id })
+                @Html.ActionLink("EOS ModalPopup", "EOSPopup", new { id = item.id }, new { })
+            </td>
+        </tr>    }
+</table>
+
+@section scripts
+{
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.11.4.min.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+
+    <script type="text/javascript">
+        $(function () {
+            $("#ClickMeToShowDialog").click(function () {
+                $("#dialog").css("display", "block");//show the dialog div
+                $('#dialog').dialog({
+                    width: 400,
+                    height: 500,
+                    resizable: false,
+                    title: 'End Of Shift',
+                    modal: true,
+                    href: '@Url.Action("EOSDetail","SuperUserEndOfShifts")',//show the partial view
+                    buttons: {
+                        "Close": function () {
+                            $(this).dialog("close");
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+
+<script type="text/javascript" language="javascript">
+
+    $(document).ready(function () {
+
+
+    $("#btnCreate").click(function () {
+        InitializeDialog($("#departmentdialog"));
+
+       $("#departmentdialog").dialog("open");
+    });
+    
+    //Method to Initialize the DialogBox
+    function InitializeDialog($element) {
+
+
+        $element.dialog({
+            autoOpen: false,
+            width: 400,
+            resizable: true,
+            draggable: true,
+            title: "End Of Shift",
+            model: true,
+            show: 'slide',
+            closeText: 'x',
+            dialogClass: 'alert',
+            closeOnEscape: true,
+            open: function (event, ui) {
+                //Load the Partial View Here using Controller and Action
+                $element.load('/SuperUserEndOfShifts/EOSPrint');
+            },
+
+            close: function () {
+                $(this).dialog('close');
+            }
+
+        });
+
+    }
+});
+
+
+</script>
+
+}

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<SolarManager.Models.SuperUserEndOfShift>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table" align="center">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.EOSPrintNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.lastEOSDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SubUser.SubUserName)
+        </th>
+        <th>
+            View Transactions
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EOSPrintNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.lastEOSDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubUser.SubUserName)
+            </td>
+            <td>
+                @Html.ActionLink("View Txns", "Transactions", new { id = item.id }) |
+                @Html.ActionLink("EOS Print", "EOSPrint", new { id = item.id }) |
+                @Html.ActionLink("EOS ModalPopup", "EOSPopup", new { id = item.id }, new { @class = "dialog" })@*"viewDialog" })*@
+            </td>
+        </tr>
+    }
+</table>

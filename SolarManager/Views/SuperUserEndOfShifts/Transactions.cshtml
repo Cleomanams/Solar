@@ -1,0 +1,72 @@
+﻿@model IEnumerable<SolarManager.Models.SubUserTransaction>
+
+@{
+    ViewBag.Title = "Transactions";
+}
+
+<h2>Transactions</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.txProduct)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.txAmount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.txStatus)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.txDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.txEoSNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.txGUID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.txSubcode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SubUser.SubUserName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.txProduct)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.txAmount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.txStatus)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.txDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.txEoSNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.txGUID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.txSubcode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SubUser.SubUserName)
+        </td>
+        @*<td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.txRef }) |
+            @Html.ActionLink("Details", "Details", new { id=item.txRef }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.txRef })
+        </td>*@
+    </tr>
+}
+
+</table>

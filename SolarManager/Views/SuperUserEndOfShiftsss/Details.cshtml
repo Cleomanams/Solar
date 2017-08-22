@@ -1,0 +1,58 @@
+﻿@model SolarManager.Models.SuperUserEndOfShift
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>SuperUserEndOfShift</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.superUserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.superUserId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EOSPrintNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EOSPrintNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lastEOSDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lastEOSDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EOSPrint)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EOSPrint)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SubUser.SubUserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SubUser.SubUserName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

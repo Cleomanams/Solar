@@ -1,0 +1,106 @@
+﻿@model IEnumerable<SolarManager.Models.SuperUserEndOfShift>
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2>
+    <br />
+</h2>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+    
+
+    @"~/Views/Shared/_Layout.cshtml"
+    @Html.ActionLink("Crnizr")
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    <script type="text/javascript">
+    $(document).ready(function () {
+
+        $.ajaxSetup({ cache: false });
+
+        $(".viewDialog").live("click", function (e) {
+            var url = $(this).attr('href');
+            $("#dialog-view").dialog({
+                title: 'View Customer',
+                autoOpen: false,
+                resizable: false,
+                height: 355,
+                width: 400,
+                show: { effect: 'drop', direction: "up" },
+                modal: true,
+                draggable: true,
+                open: function (event, ui) {
+                    $(this).load(url);
+
+                },
+                buttons: {
+                    "Close": function () {
+                        $(this).dialog("close");
+
+                    }
+                },
+                close: function (event, ui) {
+                    $(this).dialog('close');
+                }
+            });
+
+            $("#dialog-view").dialog('open');
+            return false;
+        });
+    });
+    </script>
+
+</head>
+<body>
+    <div>
+    <table class="table" align="center">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EOSPrintNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lastEOSDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubUser.SubUserName)
+            </th>
+            <th>
+                View Transactions
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EOSPrintNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.lastEOSDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SubUser.SubUserName)
+                </td>
+                <td>
+                    @Html.ActionLink("View Txns", "Transactions", new { id = item.id }) |
+                    @Html.ActionLink("EOS Print", "EOSPrint", new { id = item.id }) |
+                    @Html.ActionLink("EOS ModalPopup", "EOSPopup", new { id = item.id }, new { @class = "dialog" })@*"viewDialog" })*@
+                </td>
+            </tr>
+        }
+    </table>
+        </div>
+
+    <div id="dialog-view" style="display: none">
+    </div>
+</body>
+</html>

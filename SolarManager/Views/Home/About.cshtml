@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Additional Information";
+}
+<h3>How to:</h3>
+
+<dl>
+    <dt>Preparation</dt>
+    <dd>
+        <ul>
+            <li>Have the IdentityServer admin set up authentication for your application.  This is not user authentication, it is to allow your application to query the IdentityServer.</li>
+            <li>Use the IdentityServer to create a user.</li>
+            <li>Validate the user's email address (you will have to use a valid, unique email address).</li>
+            <li>It is also useful to get access to the IdentityServer logs.  This will give you detailed error information.</li>
+        </ul>
+    </dd>
+    <dt>Project Settings</dt>
+    <dd>
+        <ul>
+            <li><u>Authority</u>: The url of the IdentityServer that will serve Authorisation requests [Default value is http://192.168.0.69:2020/identity/]. </li>
+            <li><u>ClientId</u>: This is the id used to identify your application.</li>
+            <li><u>RedirectUri</u>: This <b>must</b> be set up on the IdentityServer for your application and must <b>match this setting</b>.  This is the uri that the IdentityServer will redirect the browser to after authorisation.  In almost every situation you would use the base address of your application.  Remember to change it in the relevant web.config for live.</li>
+            <li><u>PostLogoutRedirectUri</u>: This is the uri that the browser will be redirected to after the user has logged out.</li>
+            <li><u>RegistrationUri</u>: This is the uri used for the 'Registration' link.  [Default setting is http://192.168.0.69:2020/]. </li>
+        </ul>
+    </dd>
+</dl>
