@@ -28,12 +28,10 @@ namespace SolarManager.Controllers
         {
             //string userId = HttpContext.GetOwinContext().Authentication.User.Identity.GetUserId();//.GetUserManager<AuthorisationManager>()
                                                                                                   //.FindByNameAsync(User.Identity.Name).Result.Id;
-
-            
+                                                                                                  
             string currentUserID = User.Identity.GetUserId();
 
             //Debug.WriteLine("currentUserID " + currentUserID);
-            
             try
             {
                 var subUsers = (from sb in db.SubUsers.Where(sb => sb.UserID == currentUserID)
